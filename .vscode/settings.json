@@ -1,0 +1,11 @@
+{
+    "Lua.diagnostics.globals": [
+        "love",
+        "class_commons",
+        "width",
+        "height",
+        "gameState",
+        "scoreboard",
+        "Highscore"
+    ]
+}
